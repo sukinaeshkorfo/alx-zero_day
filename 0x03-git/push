@@ -1,0 +1,5 @@
+#!/bin/bash
+git add .
+git commit -m "Starting to code today, so cool"
+git push
+echo "Pushed on Repo"
